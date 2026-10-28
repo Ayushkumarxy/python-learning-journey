@@ -1,0 +1,13 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+
+course-info.yaml
+course-remote-info.yaml
+
+**/task.html
+**/task-info.yaml
+**/task-remote-info.yaml
+**/lesson-info.yaml
+**/section-info.yaml
